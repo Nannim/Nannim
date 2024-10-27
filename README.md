@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nannim
-- 👀 I’m interested in AI,Manufacturing and Everything Production
-- 🌱 I’m currently learning Python AI
-- 💞️ I’m looking to collaborate on the future of manufacturing
-- 📫 How to reach me nannimdandam everywhere except Facebook: nannimdaviddandam
+- 👀 I’m interested in AI, ML, DL and The Singularity
+- 🌱 I’m currently working on GCN and an Algo Battle Paper.
+- 💞️ I’m looking to collaborate on AGI.
+- 📫 How to reach me: nannimdandam everywhere else except Facebook: nannimdaviddandam
 
 <!---
 Nannim/Nannim is a ✨ special ✨ repository because itcaptures where i currently am as a developer in the fewest possible words, stay posted for changes!.
